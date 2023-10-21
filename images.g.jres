@@ -1,0 +1,49 @@
+{
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3ZWVlNzc3Nzc3N2U3NzdlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZTc3NzdlN2VlNzc3N2VlNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc=",
+        "displayName": "myAnim0"
+    },
+    "anim3": {
+        "namespace": "myAnimations",
+        "id": "anim3",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3ZWVlNzc3Nzc3N2U3NzdlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZTc3NzdlN2VlNzc3N2VlNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc=",
+        "displayName": "myAnim1"
+    },
+    "anim4": {
+        "namespace": "myAnimations",
+        "id": "anim4",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3ZWVlNzc3Nzc3N2U3NzdlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZTc3NzdlN2VlNzc3N2VlNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc=",
+        "displayName": "myAnim2"
+    },
+    "anim5": {
+        "namespace": "myAnimations",
+        "id": "anim5",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3ZWVlNzc3Nzc3N2U3NzdlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZTc3NzdlN2VlNzc3N2VlNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc=",
+        "displayName": "myAnim3"
+    },
+    "anim6": {
+        "namespace": "myAnimations",
+        "id": "anim6",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3ZWVlNzc3Nzc3N2U3NzdlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZTc3NzdlN2VlNzc3N2VlNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc=",
+        "displayName": "myAnim4"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDEwMDAxMDAwMDQwMDAwMDBlZWVlMGUwMDAwMDAwMGUwMjIyMmUyMGUwMDAwMDAyZTIyMjIyMmVlMDAwMGUwNGIyMjIyNDJlOTAwMDBiZTQ5MjIyMjQ0OTllZTAwOWU0OTIyNDI0NDk5MjIwZTllMjk0NDQ0MjQ5OTIyZTI5ZWU5ZWVlZWVlOTkyMmUyOWVlYmViYmJlYjliMjJlMmJlYmVlYmJiYmJlZWVlZTJlZTJlZTIyMjIyZWUzM2VlZWVlZWVlZWVlZWVlM2VlM2VlZWVlZWVlZWVlZWVlZWVlZWZmZWZlZWZlZmZlZWVlZjBjY2ZiZWVjZmJjZWYwZTAwYmYwYjAwZjBiYjAwMDAwMDAwZWVlZTBlMDAwMDAwMDBlMDIyMjJlMjBlMDAwMDAwMmUyMjIyMjJlZTAwMDBlMDRiMjI0MjQ0ZTkwMDAwYmU0OTIyNDQ0NDk5ZWUwMDllNDk0MjQ0NDQ5OTIyMGU5ZTI5NDQ0NDI0OTkyMmUyOWVlOWVlZWVlZTk5MjJlMjllZWJlYmJiZWI5YjIyZTJiZWJlZWJiYmJiZWVlZWUyZWUyZWUyMjIyMmVlMzNlZWVlZWVlZWVlZWVlZTNlZTNlZWVlZWVlZWVlZWVlZWVlZWVmZmVmZWVmZWZmZWVlZWYwZmJmZmVlYmZmZmVmMGUwMGJiMGMwMGIwY2IwMDAwMDAwMGVlZWUwZTAwMDAwMDAwZTAyMjIyZTIwZTAwMDAwMDJlMjIyMjIyZWUwMDAwZTA0YjQ0MjI0MmU5MDAwMGJlNDk0NDIyNDI5OWVlMDA5ZTQ5MjQyMjQ0OTkyMjBlOWUyOTQ0NDQyNDk5MjJlMjllZTllZWVlZWU5OTIyZTI5ZWViZWJiYmViOWIyMmUyYmViZWViYmJiYmVlZWVlMmVlMmVlMjIyMjJlZTMzZWVlZWVlZWVlZWVlZWUzZWUzZWVlZWVlZWVlZWVlZWVlZWVlZmZlZmVlZmVmZmVlZWVmMGJiZmNlZWJmY2JlZjBlMDBmZjBmMDBmMGZmMDAwMDAwMDBlZWVlMGUwMDAwMDAwMGUwMjIyMmUyMGUwMDAwMDAyZTIyMjIyMmVlMDAwMGUwNGIyMjIyNDJlOTAwMDBiZTQ5MjIyMjQyOTllZTAwOWU0OTIyMjI0NDk5MjIwZTllMjk0NDQ0MjQ5OTIyZTI5ZWU5ZWVlZWVlOTkyMmUyOWVlYmViYmJlYjliMjJlMmJlYmVlYmJiYmJlZWVlZTJlZTJlZTIyMjIyZWUzM2VlZWVlZWVlZWVlZWVlM2VlM2VlZWVlZWVlZWVlZWVlZWVlZWZmZWZlZWZlZmZlZWVlZjBiY2ZiZWVjZmJiZWYwZTAwZmYwYzAwZjBjZjAwMDA=",
+        "displayName": "car3Right"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
