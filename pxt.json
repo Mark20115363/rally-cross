@@ -1,8 +1,9 @@
 {
-    "name": "Rally Cross",
+    "name": "Burger attack!",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",

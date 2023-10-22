@@ -10,44 +10,6 @@ namespace myImages {
 
     helpers._registerFactory("animation", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "myAnim0":
-            case "anim2":return [img`
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 e e 7 e 7 7 7 7 7 7 7 e 7 7 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-7 7 7 7 7 e e e 7 7 7 7 e e 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-`];
-            case "myAnim1":
-            case "anim3":return [img`
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 e e 7 e 7 7 7 7 7 7 7 e 7 7 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
-7 7 7 7 7 e e e 7 7 7 7 e e 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
-`];
             case "myAnim2":
             case "anim4":return [img`
 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
@@ -174,6 +136,44 @@ e e e e e e e e e e e e e e e e
 e e f f f e e e e f f f e e e e 
 . f c b b f e e f c b b f e e . 
 . . f f c . . . . f f c . . . . 
+`];
+            case "myAnim0":
+            case "anim2":return [img`
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 e e 7 e 7 7 7 7 7 7 7 e 7 7 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+7 7 7 7 7 e e e 7 7 7 7 e e 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+`];
+            case "myAnim1":
+            case "anim3":return [img`
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 e e 7 e 7 7 7 7 7 7 7 e 7 7 
+e e e 3 3 e e e e e 3 3 e e e e 
+e e e e 3 3 e e 3 3 3 e e e e e 
+e e e e e 3 3 3 3 e e e e e e e 
+e e e e e e 3 3 3 e e e e e e e 
+e e e e e 3 3 e 3 3 e e e e e e 
+e e e 3 3 e e e e 3 e e e e e e 
+e e 3 3 e e e e e 3 3 e e e e e 
+e 3 e e e e e e e e 3 3 e e e e 
+7 7 7 7 7 e e e 7 7 7 3 e e 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
 `];
         }
         return null;
